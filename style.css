@@ -119,11 +119,17 @@ body {
 }
 
 .footer button { 
-  color: #000;
-  font-size: 14px;  
+  background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png) no-repeat;
+  background-size:80px 80px;
+  cursor:pointer;
   height: 80px; 
-  line-height: 80px;
-  margin: 0;  
+  width: 80px;
+  border:none;
+}
+
+.footer .container{
+text-align:center;
+padding-top: 20px;
 }
 
 @media (max-width: 500px) {
