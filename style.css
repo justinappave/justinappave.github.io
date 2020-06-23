@@ -127,9 +127,9 @@ body {
   border:none;
 }
 
-.footer .container{
-text-align:center;
-padding-top: 20px;
+.footer .container{   
+  text-align:center;
+  padding-top: 20px;
 }
 
 @media (max-width: 500px) {
