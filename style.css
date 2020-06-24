@@ -120,7 +120,11 @@ body {
 
 .projects .dataAnalysis p{
   text-align:left;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
+}
+
+.projects .dataPic{
+  text-align:center;
 }
 
 .projects .researchPaper{
@@ -134,8 +138,8 @@ body {
 
 .contact {
     text-align:center;
-    padding-bottom: 50px;
-    padding-top:200px;
+    padding-bottom: 200px;
+    padding-top:400px;
 
 }
 
