@@ -114,6 +114,14 @@ body {
   text-align: left; 
 }
 
+.projects p{
+  text-align:left;
+}
+
+.projects .dataAnalysis{
+  text-align:left;
+}
+
 .contact {
     text-align:center;
     padding-bottom: 50px;
