@@ -99,7 +99,6 @@ body {
   text-align: center;   
 }
 
-
 .projects {
   height: 300px; 
 }
@@ -114,19 +113,31 @@ body {
   text-align: left; 
 }
 
-.projects p{
-  text-align:left;
-}
 
 .projects .dataAnalysis{
   text-align:left;
 }
 
+.projects .dataAnalysis p{
+  text-align:left;
+  padding-bottom: 50px;
+}
+
+.projects .researchPaper{
+  text-align: left;
+}
+
+.projects .researchPaper p{
+  text-align: left;
+  padding-bottom: 50px;
+}
+
 .contact {
     text-align:center;
     padding-bottom: 50px;
-}
+    padding-top:200px;
 
+}
 
 .footer { 
   background: #000;
